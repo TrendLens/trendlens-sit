@@ -1,0 +1,1 @@
+// Placeholder for API file: healthcheck.js
