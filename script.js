@@ -1,0 +1,1 @@
+function checkPIN() { var pin = document.getElementById('pin').value; if(pin === '0121') { window.location.href='index.html'; } else if(pin === '9090') { window.location.href='dashboard.html'; } else { alert('Invalid PIN'); } }
