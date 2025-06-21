@@ -1,1 +1,1 @@
-// Placeholder for API file: simulate.js
+// Backend logic for simulate.js

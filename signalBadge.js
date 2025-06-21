@@ -1,1 +1,1 @@
-// Placeholder for signalBadge.js
+<!-- Content for signalBadge.js -->

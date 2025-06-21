@@ -1,1 +1,1 @@
-// Placeholder for API file: metrics.js
+// Backend logic for metrics.js

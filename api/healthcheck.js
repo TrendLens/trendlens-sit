@@ -1,1 +1,1 @@
-// Placeholder for API file: healthcheck.js
+// Backend logic for healthcheck.js
