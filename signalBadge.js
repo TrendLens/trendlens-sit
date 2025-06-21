@@ -1,1 +1,0 @@
-<!-- Content for signalBadge.js -->
